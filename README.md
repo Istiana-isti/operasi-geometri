@@ -1,0 +1,2 @@
+# operasi-geometri
+Tugas 
